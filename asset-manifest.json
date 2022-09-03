@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://srinanoo.github.io/sample-react/static/css/main.05ac0f05.css",
+    "main.js": "https://srinanoo.github.io/sample-react/static/js/main.d1749442.js",
+    "index.html": "https://srinanoo.github.io/sample-react/index.html",
+    "main.05ac0f05.css.map": "https://srinanoo.github.io/sample-react/static/css/main.05ac0f05.css.map",
+    "main.d1749442.js.map": "https://srinanoo.github.io/sample-react/static/js/main.d1749442.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ac0f05.css",
+    "static/js/main.d1749442.js"
+  ]
+}
